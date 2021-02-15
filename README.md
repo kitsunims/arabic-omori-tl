@@ -4,10 +4,11 @@
 
 OMORI in Arabic
 
-Requires :
+###### Requires :
 * Gilbert's Mod Loader for OMORI (GOMORI) version 2.2.0
 * a LEGAL version of OMORI
 
+###### Instructions :
 1. Install GOMORI
 1. Download the patch (zip file)
 1. Copy the zip file into [OMORI'S DIRECTORY]\www\mods\
