@@ -1,4 +1,4 @@
-# arabic-omori-tl
+# OMORI ARABIC || اوموري بالعربية 
 
 ## ENGLISH INSTRUCTIONS
 
